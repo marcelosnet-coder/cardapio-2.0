@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Copy of Mary\u0027s Pizzaria Online",
+  "description": "Aplicativo de pedidos online para a Mary\u0027s Pizzaria com sistema de meio a meio, combos e integração com WhatsApp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
